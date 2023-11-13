@@ -1,0 +1,9 @@
+module.exports = {
+	printWidth: 80,
+	useTabs: true,
+	singleQuote: false,
+	trailingComma: "none",
+	arrowParens: "always",
+	singleAttributePerLine: true,
+	plugins: ["prettier-plugin-css-order"]
+};
